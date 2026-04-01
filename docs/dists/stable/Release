@@ -1,0 +1,7 @@
+Origin: shartith
+Label: Stock Manager
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: Stock Manager APT Repository
