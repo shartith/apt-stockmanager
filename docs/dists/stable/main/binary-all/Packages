@@ -1,0 +1,17 @@
+Package: stock-manager
+Version: 4.19.2
+Architecture: all
+Maintainer: shartith <shartith@users.noreply.github.com>
+Depends: nodejs (>= 18)
+Filename: pool/main/stock-manager_4.19.2_all.deb
+Size: 10901776
+MD5sum: 6b8a26475302dc664700513ca6cfd666
+SHA1: b5935b240118aec7e577cd8f9bb82e1cc788b070
+SHA256: c1c76b4f388bb7b5127d699d839da068c68daab096071d45875fd3b76bec1efc
+Section: finance
+Priority: optional
+Homepage: https://github.com/shartith/StockManager
+Description: Stock portfolio management and automated trading system
+ KIS API integration, external OpenAI-compatible LLM trading decisions,
+ automated scheduling, and web-based trading platform.
+

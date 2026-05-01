@@ -5,3 +5,7 @@ Codename: stable
 Architectures: all
 Components: main
 Description: Stock Manager APT Repository
+Date: Fri, 01 May 2026 18:40:45 UTC
+SHA256:
+ 25d04b7ce98a2fa13ad73ccf183ef543d2e02870604d5dcc0ecf7dcd56329c1d 647 main/binary-all/Packages
+ 3c336d812ef06512f6e8b8aac53021e13333999e3586d71e10897091f4da96aa 467 main/binary-all/Packages.gz
